@@ -70,8 +70,8 @@ mvn clean
 mvn spring-boot:run
 ```
 Accéder aux différentes ressources:<br>
-*Authentification
-* http://localhost:8090/auth
+* Authentification
+  ** http://localhost:8090/auth
 * Ajouter un utilisateur
 * http://localhost:8090/add 
 * Rechercher un utilisateur
